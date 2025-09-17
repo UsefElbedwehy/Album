@@ -26,3 +26,11 @@
 
 ## Image Viewer + share (handled in sceneDelegate to accept and open the image) 
 <img src="https://github.com/user-attachments/assets/eb54395a-a12d-40bf-bf02-8348514dd36a" width="250" />
+
+## Project Guidelines
+- UIKit.
+- Swift 5+.
+- MVVM architecture.
+- Clean, readable code with comments.
+- Combine
+- Moya
