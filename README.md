@@ -1,5 +1,15 @@
 # Album
 
+- The app is composed of 2 screens, first is the profile screen, it has the user
+name and address pinned at the top and then it lists all of this user’s albums. You
+can get user albums by requesting the albums endpoint and passing userId as a
+parameter.
+When you press on any album it navigates to the second screen which is an
+album details screen. You request the photos endpoint and pass album id as a
+parameter, then list the images in an Instagram-like grid. Also, there should be a
+search bar that you can filter within the album by the image title, when you start
+typing the screen should show only images that are related to this search query.
+
 ## App Icon
  <img src="https://github.com/user-attachments/assets/1a7bb1a6-e512-4b85-881c-8f3c78715127" width="250" />
 
